@@ -7,7 +7,7 @@
 
 import Foundation
 import PromiseKit
-import FetchNodeDetails
+import FlatCircleFetchNodeDetails
 #if canImport(PMKFoundation)
 import PMKFoundation
 #endif
@@ -16,7 +16,7 @@ import secp256k1
 #endif
 import BigInt
 import CryptoSwift
-import web3swift
+import FlatCircleweb3swift
 
 extension TorusUtils {
     

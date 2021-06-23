@@ -4,8 +4,8 @@
  */
 
 import Foundation
-import FetchNodeDetails
-import web3swift
+import FlatCircleFetchNodeDetails
+import FlatCircleweb3swift
 import PromiseKit
 #if canImport(secp256k1)
 import secp256k1
